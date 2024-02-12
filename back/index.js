@@ -13,7 +13,7 @@ const { authRouter } = require("./routers/authRouter");
 //importation des fonctions présentes dans d'autres fichiers
 
 // on initialise express
-const app = express();
+const app = express() 
 // on utilise le port 3000
 const port = 3000;
 
